@@ -10,7 +10,6 @@
         string Telefon;
         string VKN;
         string Aciklama;
-
         public string MusteriID1 { get => MusteriID; set => MusteriID = value; }
         public string Personel1 { get => Personel; set => Personel = value; }
         public string IslemTarihi1 { get => IslemTarihi; set => IslemTarihi = value; }

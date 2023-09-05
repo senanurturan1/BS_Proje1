@@ -90,12 +90,6 @@ namespace BS_Proje1
                 MessageBox.Show("İşlem başarısız.");
             }
         }
-
-        private void tabPage5_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Form2_Load(object sender, EventArgs e)
         {
 
